@@ -1,7 +1,7 @@
 id: homework_wk2
 namespace: zoomcamp
-description: |
-  Best to add a label `backfill:true` from the UI to track executions created via a backfill.
+description: 
+  
   CSV data used here comes from: https://github.com/DataTalksClub/nyc-tlc-data/releases
 
 inputs:
